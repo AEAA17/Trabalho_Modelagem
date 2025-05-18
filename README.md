@@ -1,4 +1,4 @@
-# Modelagem para AI: Gaseificação de Biomassa
+# Gaseificação de Biomassa
 
 Este projeto tem como objetivo construir e comparar três modelos de Machine Learning (ML) — Redes Neurais Artificiais (RNA), Random Forest e SVM — para prever a composição do gás de síntese gerado no processo de gaseificação de biomassa. O trabalho se baseia na dissertação:
 
