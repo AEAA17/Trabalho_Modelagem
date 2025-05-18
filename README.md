@@ -10,9 +10,9 @@ Pimentel , Fernanda . Desenvolvimento de Modelos Preditivos Para a  Gaseificaç�
 - **BD.xlsx**: Base de dados utilizada para treinamento, teste e validação dos modelos (armazenada no Google Drive).
 
 
-## Etapas do Projeto(Realizada na Dissertação)
+## Etapas do Projeto
 
-1. **Construção e Tratamento do Banco de Dados**
+1. **Construção e Tratamento do Banco de Dados(Realizada na Dissertação)**
    - Revisão bibliográfica e extração de variáveis relevantes.
    - Limpeza, filtragem e padronização dos dados.
    - Exclusão de outliers e registros inconsistentes.
