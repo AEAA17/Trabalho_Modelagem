@@ -12,7 +12,7 @@ Pimentel , Fernanda . Desenvolvimento de Modelos Preditivos Para a  Gaseificaç�
 
 ## Etapas do Projeto
 
-1. **Construção e Tratamento do Banco de Dados(Realizada na Dissertação)**
+1. **Construção e Tratamento do Banco de Dados (Realizada na Dissertação)**
    - Revisão bibliográfica e extração de variáveis relevantes.
    - Limpeza, filtragem e padronização dos dados.
    - Exclusão de outliers e registros inconsistentes.
@@ -21,15 +21,15 @@ Pimentel , Fernanda . Desenvolvimento de Modelos Preditivos Para a  Gaseificaç�
 2. **Análise Exploratória de Dados**
    - Estatísticas descritivas.
    - Visualização de distribuições e boxplots.
-   - Análise de correlação (Spearman) entre variáveis de entrada e saída.
+   - Análise de correlação (Spearman). 
    - Análise de componentes principais (PCA).
 
-3. **Modelagem(Em andamento)**
+3. **Modelagem (Em andamento)**
    - **Rede Neural Artificial (RNA)**: Implementação, avaliação e comparação com o modelo usado na dissertação.
    - **Random Forest**: Implementação e avaliação do modelo.
    - **SVM**: Implementação e avaliação do modelo.
 
-4. **Comparação dos Modelos(Em andamento)**
+4. **Comparação dos Modelos (Em andamento)**
    - Avaliação de desempenho dos quatro modelos.
    - Discussão dos resultados.
 
